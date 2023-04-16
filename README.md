@@ -11,4 +11,3 @@ Tests
 I've been testing my project and everything is working fine using this commands:
 import pytest
 pytest
-[PR link]()
