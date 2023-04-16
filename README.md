@@ -1,4 +1,4 @@
-# LAB - Class 05
+# LAB - Class 04
 ## pythonic-garage-band
 
 ## Setup
